@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.Clear();
 Console.Write("a:");
 int a = int.Parse(Console.ReadLine());
 Console.Write("b:");
