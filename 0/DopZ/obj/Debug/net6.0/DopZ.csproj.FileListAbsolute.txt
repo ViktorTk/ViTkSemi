@@ -1,0 +1,15 @@
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\bin\Debug\net6.0\DopZ.exe
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\bin\Debug\net6.0\DopZ.deps.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\bin\Debug\net6.0\DopZ.runtimeconfig.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\bin\Debug\net6.0\DopZ.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\bin\Debug\net6.0\DopZ.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.csproj.AssemblyReference.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.AssemblyInfoInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.AssemblyInfo.cs
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.csproj.CoreCompileInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\refint\DopZ.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\DopZ.genruntimeconfig.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\DopZ\obj\Debug\net6.0\ref\DopZ.dll
