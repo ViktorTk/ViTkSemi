@@ -1,0 +1,5 @@
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\dopz2\obj\Debug\net6.0\dopz2.csproj.AssemblyReference.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\dopz2\obj\Debug\net6.0\dopz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\dopz2\obj\Debug\net6.0\dopz2.AssemblyInfoInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\dopz2\obj\Debug\net6.0\dopz2.AssemblyInfo.cs
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\dopz2\obj\Debug\net6.0\dopz2.csproj.CoreCompileInputs.cache
