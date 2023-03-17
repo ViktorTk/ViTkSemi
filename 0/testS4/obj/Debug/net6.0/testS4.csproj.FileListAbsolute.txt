@@ -1,0 +1,15 @@
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\bin\Debug\net6.0\testS4.exe
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\bin\Debug\net6.0\testS4.deps.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\bin\Debug\net6.0\testS4.runtimeconfig.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\bin\Debug\net6.0\testS4.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\bin\Debug\net6.0\testS4.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.csproj.AssemblyReference.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.AssemblyInfoInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.AssemblyInfo.cs
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.csproj.CoreCompileInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\refint\testS4.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\testS4.genruntimeconfig.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\testS4\obj\Debug\net6.0\ref\testS4.dll
