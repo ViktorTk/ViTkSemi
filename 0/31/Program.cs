@@ -15,10 +15,6 @@
 //     return res;
 // }
 
-
-
-
-
 Console.Clear();
 int[] array = GetRandomArray(12, -9, 9);
 Console.WriteLine(String.Join(", ", array));
