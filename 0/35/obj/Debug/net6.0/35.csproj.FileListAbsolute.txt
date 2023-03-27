@@ -1,0 +1,15 @@
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\bin\Debug\net6.0\35.exe
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\bin\Debug\net6.0\35.deps.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\bin\Debug\net6.0\35.runtimeconfig.json
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\bin\Debug\net6.0\35.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\bin\Debug\net6.0\35.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.csproj.AssemblyReference.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.AssemblyInfoInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.AssemblyInfo.cs
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.csproj.CoreCompileInputs.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\refint\35.dll
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.pdb
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\35.genruntimeconfig.cache
+C:\Users\xikka\Desktop\проги для учебы\Семинары (знакомство с языками программирования)\0\35\obj\Debug\net6.0\ref\35.dll
